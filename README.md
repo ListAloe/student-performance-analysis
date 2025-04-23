@@ -13,7 +13,7 @@
 ## Использование
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/student-performance-analysis.git
+   git clone https://github.com/listaloe/student-performance-analysis.git
    ```
 2. Установите зависимости:
    ```bash
